@@ -1,0 +1,7 @@
+# Streamlit und Python Caching
+.streamlit/
+__pycache__/
+*.pyc
+.env
+venv/
+env/
